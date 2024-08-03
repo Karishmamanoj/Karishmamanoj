@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Karishma Manoj
+## Hi there👋 I'm Karishma Manoj
 
 🏢 Pursuing B.Tech in Information Technology at Vellore Institute of Technology.<br>
 ⚙️ Innovative Technologist with a passion for continuous learning and crafting elegant solutions.<br>
