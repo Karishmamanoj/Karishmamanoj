@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966" alt="An Aspiring Technologist | Analyst" width="350"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-YFLqy1A9mPVL8DiNDwpK05fHGlPzIBddAw&s" alt="An Aspiring Technologist | Analyst" width="350"/>
 </p>
 
 <ul>
