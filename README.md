@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-YFLqy1A9mPVL8DiNDwpK05fHGlPzIBddAw&s" alt="An Aspiring Technologist | Analyst" width="350"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt2i8Djg8UdXPIhknDZBBWc22Tr6I1XzbQVVrLs3Phw-TCsTSQZ-MEyYwa3M5mbVVARLE&usqp=CAU" alt="An Aspiring Technologist | Analyst" width="350"/>
 </p>
 
 <ul>
