@@ -18,7 +18,6 @@ Building secure systems, automating workflows, and continuously learning across 
 <p align="center">
 📫 Reach me: <a href="mailto:karishmamanoj2003@gmail.com">karishmamanoj2003@gmail.com</a>
 </p>
-  <li><strong>📫Reach me:</strong> karishmamanoj2003@gmail.com</li>
 </ul>
 
 <p align="center">
