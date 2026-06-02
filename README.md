@@ -1,7 +1,7 @@
 <p align="center">
   <strong>Hi there 👋, I’m Karishma Manoj</strong>
   <br/>
-  <em>An Aspiring Technologist | Analyst</em>
+  <em>An Aspiring Technologist</em>
 </p>
 
 
