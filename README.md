@@ -7,8 +7,17 @@
 
 
 <ul>
- 🔐 Cybersecurity | ☁️ Cloud | ⚙️ DevOps
-  Building secure systems, automating workflows, and continuously learning across Cybersecurity, DevOps, and Cloud Technologies.
+<h1 align="center">Hi there 👋, I'm Karishma Manoj</h1>
+
+<h3 align="center">Cybersecurity | Cloud | DevOps</h3>
+
+<p align="center">
+Building secure systems, automating workflows, and continuously learning across Cybersecurity, DevOps, and Cloud Technologies.
+</p>
+
+<p align="center">
+📫 Reach me: <a href="mailto:karishmamanoj2003@gmail.com">karishmamanoj2003@gmail.com</a>
+</p>
   <li><strong>📫Reach me:</strong> karishmamanoj2003@gmail.com</li>
 </ul>
 
